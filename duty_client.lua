@@ -51,10 +51,10 @@ AddEventHandler("GivePedWeapon", function()
     local shotgun = GetHashKey("WEAPON_PUMPSHOTGUN")
     GiveWeaponToPed(ped, shotgun, 1000, false, false)
 
-    -- Выдача бронежилета на 100
+    -- Выдача бронежилета на 100 очков
     SetPedArmour(ped, 100)
 
-    -- Выдача здоровья на 100
+    -- Выдача здоровья на 100 очков
     SetEntityHealth(ped, 100)
 end)
 
