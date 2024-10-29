@@ -1,4 +1,5 @@
 **[For now, only the Russian version]**
+*But if you need to, you can translate the code into another language yourself using a translator*
 
 **This project is a script to create a duty kit for any FiveM server with police theme.**
 
