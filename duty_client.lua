@@ -55,7 +55,7 @@ AddEventHandler("GivePedWeapon", function()
     SetPedArmour(ped, 100)
 
     -- Выдача здоровья на 100
-    SetEntityHealth(ped, 200) -- 100 здоровья + 100 брони = 200
+    SetEntityHealth(ped, 100)
 end)
 
 RegisterNetEvent("updateUnlimitedPlayers")
