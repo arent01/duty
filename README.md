@@ -1,3 +1,4 @@
+**[For now, only the Russian version]**
 **This project is a script to create a duty kit for any FiveM server with police theme.**
 
   **Main functionalities**
